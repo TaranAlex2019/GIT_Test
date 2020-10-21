@@ -1,0 +1,7 @@
+C:\Users\AlexandrPC\source\repos\FunctionsAndMethods\FunctionsAndMethods\bin\Debug\FunctionsAndMethods.exe.config
+C:\Users\AlexandrPC\source\repos\FunctionsAndMethods\FunctionsAndMethods\bin\Debug\FunctionsAndMethods.exe
+C:\Users\AlexandrPC\source\repos\FunctionsAndMethods\FunctionsAndMethods\bin\Debug\FunctionsAndMethods.pdb
+C:\Users\AlexandrPC\source\repos\FunctionsAndMethods\FunctionsAndMethods\obj\Debug\FunctionsAndMethods.csprojAssemblyReference.cache
+C:\Users\AlexandrPC\source\repos\FunctionsAndMethods\FunctionsAndMethods\obj\Debug\FunctionsAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\AlexandrPC\source\repos\FunctionsAndMethods\FunctionsAndMethods\obj\Debug\FunctionsAndMethods.exe
+C:\Users\AlexandrPC\source\repos\FunctionsAndMethods\FunctionsAndMethods\obj\Debug\FunctionsAndMethods.pdb
